@@ -7,9 +7,9 @@
 
 I am a Software Engineering student at UFMS (Federal University of Mato Grosso do Sul)
 
-<div align="center">
+<div align="left">
   <h2>Technologies & Tools 🔧</h2>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" alt="Git">
+  <img height="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="Git"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JS" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js">
