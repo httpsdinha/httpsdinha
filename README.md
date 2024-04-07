@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Amanda!😀
-<img align='right' src='https://media.giphy.com/media/oN7tZbPMlu6sMMS2ZO/giphy.gif' width='150'>
+<img align='right' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/7.gif' width='150'>
  <div> 
   <a href="https://instagram.com/httpsdinha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/amandagois/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -17,4 +17,4 @@ I am a Software Engineering student at UFMS (Federal University of Mato Grosso d
 
   ##
  
-
+<div class="tenor-gif-embed" data-postid="5729049161273051212" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/heart-gif-5729049161273051212">Heart GIF</a>from <a href="https://tenor.com/search/heart-gifs">Heart GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
